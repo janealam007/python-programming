@@ -1,5 +1,5 @@
 # python-programming
-Basic python programming for ACM problem solving for beginners. 
+Basic python programming for ACM problem solver.
 ___________________________________________________________________________________________________________________
 
 1. Introduction
