@@ -4,7 +4,7 @@ Python is an interpreted, object-oriented, high-level programming language with 
 # Python Install 
 https://www.python.org/downloads/
 
-# Pycharms Install
-https://www.jetbrains.com/pycharm/download/#section=linux
+# Visual Studio Code Install
+https://code.visualstudio.com/
 
 Now you are ready for writing your first programming 'Hello World.' 
